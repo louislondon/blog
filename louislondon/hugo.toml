@@ -1,0 +1,4 @@
+baseURL = 'https://louis.london/'
+languageCode = 'en-uk'
+title = 'Louis London'
+theme = 'hugo-theme-diary'

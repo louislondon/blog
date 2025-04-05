@@ -1,0 +1,4 @@
+[submodule "louislondon/public"]
+	path = louislondon/public
+	url = https://github.com/louislondon/louis.london.git
+	branch = main
