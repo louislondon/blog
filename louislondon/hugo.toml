@@ -1,4 +1,4 @@
-baseURL = 'https://louislondon.github.io/louis.london/'
+baseURL = 'https://www.louis.london/'
 languageCode = 'en-us'
 title = 'Louis London'
 theme = 'hugo-theme-diary'
