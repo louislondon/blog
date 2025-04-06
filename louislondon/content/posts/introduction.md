@@ -35,7 +35,3 @@ This time, I studied [economics](https://en.wikipedia.org/wiki/Schumacher_Colleg
 And learned more truths past logic,
 
 [So this is where I blog it](https://www.louis.london/)
-
-I'm learning all my life
-
-And now it's sharing time
