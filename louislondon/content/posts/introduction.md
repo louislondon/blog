@@ -6,34 +6,36 @@ Let me give a little introduction,
 
 I'm Louis from Lewisham, London,
 
-Grew up where blue borough borders Southwark,
+Where blue borough borders Southwark,
 
-Like Dave, I grew up near Peckham,
+[Like Dave](https://www.youtube.com/watch?v=mkMQNRYlVAQ), I grew up near Peckham,
 
 Teachers were giving man tests,
 
-I got 4 A*s, so I entered,
+Smashed 4 A*s, so I entered,
 
-Comp Sci at Cambridge Uni,
+[Comp Sci at Cambridge Uni](https://www.undergraduate.study.cam.ac.uk/courses/computer-science-ba-hons-meng),
 
 And there I seemed so unique,
 
 Head down, got my degree,
 
-Did Cambridge research til two-three,
+Then did research til two-three,
 
 When my mental health got worse for me,
 
-So I went straight back to University,
+So I went straight back to [University](https://www.freeblackuni.com/),
 
-I'm not sure why to be honest,
+I knew it was right, with certainty
 
-This time, I studied economics,
+But I'm not sure why to be honest,
 
-And learned some truth past logic,
+This time, I studied [economics](https://en.wikipedia.org/wiki/Schumacher_College),
 
-So this is where I blog it
+And learned more truths past logic,
 
-I been learning all my life
+[So this is where I blog it](https://www.louis.london/)
+
+I'm learning all my life
 
 And now it's sharing time
